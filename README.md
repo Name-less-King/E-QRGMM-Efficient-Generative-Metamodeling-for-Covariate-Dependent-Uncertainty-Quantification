@@ -141,3 +141,19 @@ Our model achieves the following performance on:
 | Quantile       | RectFlow | 1.00     | 2.4798     |
 | Survival Func. | E-QRGMM  | 0.90     | **0.0214** |
 | Survival Func. | RectFlow | 1.00     | 0.0658     |
+
+
+## Citation
+
+If you find this work or code useful for your research, please cite:
+
+```bibtex
+@misc{liang2026eqrgmmefficientgenerativemetamodeling,
+      title={E-QRGMM: Efficient Generative Metamodeling for Covariate-Dependent Uncertainty Quantification}, 
+      author={Zhiyang Liang and Qingkai Zhang},
+      year={2026},
+      eprint={2601.19256},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2601.19256}, 
+}
