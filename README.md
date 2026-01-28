@@ -1,6 +1,9 @@
 # E-QRGMM: Efficient Generative Metamodeling for Covariate-Dependent Uncertainty Quantification
 
-This repository contains code to reproduce the experiments in our paper. The focus is on conditional distribution modeling, together with estimation for estimands of interest (mean/quantiles/tail probabilities) and bootstrap-based uncertainty quantification.
+This repository contains the official implementation of the paper:
+**[Efficient Generative Metamodeling for Covariate-Dependent Uncertainty Quantification](https://arxiv.org/abs/2601.19256)**.
+
+The focus is on conditional distribution modeling, together with estimation for estimands of interest (mean/quantiles/tail probabilities) and bootstrap-based uncertainty quantification.
 
 ## Benchmarks
 
